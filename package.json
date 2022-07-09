@@ -2,7 +2,7 @@
   "name" : "grafana-test",
   "version" : "0.0.1",
   "scripts" : {
-    "install" : "./build.sh",
+    "install" : "sh build.sh",
     "start" : "./run.sh"
   },
   "engines": {
